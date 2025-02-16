@@ -1,0 +1,36 @@
+body{
+background-image: url(./images/001.jpg);
+ background-size: cover; 
+ background-position: center; 
+}
+.nom{
+    text-align: center;
+    color: aliceblue;
+    font-size: 50px;
+}
+p{
+    text-align: center;
+    color: aliceblue;
+    font-size: 20px;
+}
+.tugma_rang {
+    
+    font-size: 18px;
+    padding: 10px 20px;
+    border: 2px solid white; /* Oq ramka */
+    background-color:darkslateblue; /* Orqa fonni olib tashlash */
+    color: white; /* Matn oq rangda */
+    cursor: pointer;
+}
+.tugma_rangsiz{
+    font-size: 18px;
+    padding: 10px 20px;
+    border: 2px solid white; /* Oq ramka */
+    background-color: transparent; /* Orqa fonni olib tashlash */
+    color: white; /* Matn oq rangda */
+    cursor: pointer;
+
+}
+.tugma{
+    text-align: center;
+}
